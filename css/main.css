@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+.cards {
+    background: #1345F9;
+    width: 1333px;
+height: 782px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.cards__content {
+    background: white;
+    padding: 30px 105px 56px 35px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.cards__card {
+    display: flex;
+    flex-direction: column;
+}
+.carrds__card-image {
+    width: 486px;
+    height: 315px;
+    object-fit: cover;
+    margin: 30px 71px 37px 35px;
+}
+.cards__card-title {
+   color: #1345F9;
+   font-weight: 400;
+   font-size: 25.7901px;
+   width: 176.62px;
+   height: 27px;
+   
+}
+.cards__card-number {
+    color: #1345F9;
+    font-weight: 400;
+    font-size: 29.0193px;
+    margin: 37px 0 67px;
+    width: 442.58px;
+    height: 35px;
+    margin: 37px 92px 67px 57px;
+}
+
+.cards__item-title {
+    color: #1345F9;
+    width: 318px;
+    height: 29px;
+    font-weight: 400;
+    font-size: 25.7028px;
+    margin: 50px 102px 10px 72px;
+}
+.cards__item-soz {
+    width: 316px;
+    height: 45.96px;
+    font-weight: 400;
+    font-size: 34.4119px;
+    color: black;
+    margin: 10px 105px 37px 71px;
+}
+.cards__card-raqam {
+    color: #1345F9;
+    width: 94px;
+    height: 37.34px;
+    font-weight: 400;
+    font-size: 38.0309px;
+    margin: 37px 327px 17px 71px;
+}
+.cards__card-text {
+    width: 316px;
+    height: 189px;
+    font-weight: 400;
+    font-size: 20.9629px;
+    margin: 17px 105px 47px 71px;
+}
+.cards__card-btn {
+    display: flex;
+    flex-direction: column;
+}
+.cards__card-link {
+    width: 186px;
+    height: 31px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 25.7901px;
+    padding: 17px 54px 17px 76px;
+    background: #1345F9;
+    border: 1.04636px solid #FFFFFF;
+    border-radius: 31.3907px;
+    margin: 31px 105px 40px 92.42px;
+}
