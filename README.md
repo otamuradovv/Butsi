@@ -1,0 +1,3 @@
+# Butsi web sayti
+## Sayt asilbek tomonidan 2023 yil yaratilgan
+    Sayt ajoyib!...
